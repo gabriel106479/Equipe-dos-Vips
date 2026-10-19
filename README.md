@@ -1,3 +1,8 @@
 # Equipe-dos-Vips
 
-Remover regra_de_negocio.md requisito_funcional.md requisito_nao_funcional.md
+## Alunos
+
+* Gabriel Cologneze Ortega
+* Eduardo Shoiti Maeda
+* Lucas Nakamura Batista
+* Raul Scalassara Alencar
